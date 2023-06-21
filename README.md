@@ -2,7 +2,7 @@ https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?w=
 
 ### Hi there 👋
 
-<!--
+
 **alamin657/alamin657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
