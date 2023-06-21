@@ -1,18 +1,18 @@
-https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?w=740&t=st=1687343209~exp=1687343809~hmac=3e1b1c72e82a3a272273360e85c2011965aee01c7e0a1df9a34ca8bb4051e41d
 
-### Hi there 👋
+### Hi there 👋, I'm Al Amin
+#### Web Developer
+![Web Developer](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&ga=GA1.1.1803344305.1673915057&semt=ais)
+
+I am a Junior web developer. As a web developer , My skill have html,css,javascript,react,firebase,node.js and other libraries and framework. I have hard working ability. I can write clean code and trying to improve every single day.
+
+Skills:  HTML / CSS/Bootstrap/Tailwind CSS/JavaScript/ReactJs/NodeJs/Firebase/MongoDB
+
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web Development 
 
 
-**alamin657/alamin657** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/alamin657)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/al-amin017//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/22108231/al-amin)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
